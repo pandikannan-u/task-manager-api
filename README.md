@@ -28,6 +28,7 @@ The Task Manager API is a backend application developed using FastAPI. It allows
 
 4. Project Structure
 
+```text
 task-manager-api/
 ├── app/
 │   ├── routers/
@@ -38,13 +39,12 @@ task-manager-api/
 │   ├── config.py
 │   ├── database.py
 │   ├── models.py
-│   ├── schemas.py
-│   └── auth.py
+│   └── schemas.py
 ├── .env.example
 ├── .gitignore
 ├── requirements.txt
 └── README.md
-
+```
 5. Setup and Installation
 
 1. Clone or download the project.
